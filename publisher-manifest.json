@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "d87d18e75d5787e536950937",
+  "owner": "ceuytahcswgz",
+  "repo": "page-0ab5b5683f800d0b5984a899",
+  "title": "clash节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0ab5b5683f800d0b5984a899",
+      "a": "clash节点",
+      "b": "",
+      "entity": "clash节点",
+      "brand": "clash节点",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ea0f55aeacfa30f818e924b103ac818bd5f947497ab161838ca09fd531c9163b",
+      "content": {
+        "keyword1": "clash节点",
+        "keyword2": "",
+        "primary_entity": "clash节点",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clash节点是面向远程办公、学习与流媒体的网络加速服务。本页说明机场订阅方式、三档套餐、客户端使用步骤，并解答连接、流量与设备相关的常见问题。",
+          "AI_DESCRIPTION": "clash节点是面向远程办公、学习与流媒体的网络加速服务。本页说明机场订阅方式、三档套餐、客户端使用步骤，并解答连接、流量与设备相关的常见问题。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html{overflow-x:hidden}body{margin:0;background:#fff8f4;color:#2a211e;font-family:\"PingFang SC\",\"Noto Sans SC\",\"Microsoft YaHei\",sans-serif;font-size:17px;line-height:1.75}a{color:#b84334}a:focus{outline:2px solid #e36a58;outline-offset:2px}.wrap{max-width:40rem;margin:0 auto;padding:1.5rem 1.15rem 3rem}header{padding:2.2rem 0 1.4rem}.brand{margin:0;color:#c44d3c;font-size:.95rem;font-weight:700;letter-spacing:.04em}h1{margin:.35rem 0 .8rem;font-size:2rem;line-height:1.28;font-weight:750}h2{margin:2rem 0 .7rem;font-size:1.35rem;line-height:1.35}h3{margin:1rem 0 .35rem;font-size:1.08rem}.lead{margin:0;color:#3d312c;font-size:1.05rem}nav{display:flex;flex-wrap:wrap;gap:.45rem .7rem;margin:1.1rem 0 0}nav a{text-decoration:none;background:#fff;border:1px solid #f0d9d2;border-radius:999px;padding:.25rem .7rem;color:#2a211e}nav a.hot{background:#e36a58;border-color:#e36a58;color:#fff}section{margin-top:.4rem}ul,ol{margin:.4rem 0 .2rem;padding-left:1.2rem}.card{background:#fff;border:1px solid #f0d9d2;border-radius:14px;padding:1rem 1rem .9rem;margin:.75rem 0}.card.featured{border:2px solid #e36a58;background:#fff6f3}.tag{display:inline-block;background:#e36a58;color:#fff;border-radius:999px;font-size:.8rem;padding:.05rem .5rem;margin-bottom:.35rem}.price{font-size:1.45rem;font-weight:750;margin:.2rem 0}.muted{color:#4a3d38}.faq{margin-top:1.6rem;padding:1.1rem .95rem 1.2rem;background:#fff1ec;border-radius:16px}details{background:#fff;border:1px solid #f0d9d2;border-left:4px solid #e36a58;border-radius:10px;padding:.75rem .9rem;margin:.7rem 0}summary{font-weight:700;cursor:pointer}details p{margin:.55rem 0 0}footer{margin-top:2rem;padding-top:1rem;border-top:1px solid #f0d9d2;font-size:.95rem}</style><main class=\"wrap\"><header><p class=\"brand\">clash节点官网</p><h1>clash节点：VPN 网络加速与客户端下载</h1><p class=\"lead\">clash节点提供可导入 Clash 兼容客户端的机场订阅，用于跨网络访问、远程协作和流媒体播放时的网络加速。本页说明套餐差别、使用步骤和下载时应注意的事项。</p><nav><a href=\"#about\">简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\" class=\"hot\">常见问题</a></nav></header><section id=\"about\"><h2>品牌简介</h2><p>clash节点是一项按月提供流量与线路的加速服务，不是某一款客户端的替代品。客户端负责连接、分流和规则；订阅负责把可用线路、流量额度和设备上限同步到客户端。选择套餐时，先看每月流量、同时在线设备和线路类型，再决定是否按年支付。</p><p>页面公示的三档价格即为当前方案：基础版适合用量不大的个人，旗舰版覆盖更高流量、流媒体与游戏向线路，团队版面向设备更多、需要单独沟通路由的小组。年付金额已在各方案中写明，不另设隐藏价。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>远程办公与学习</h3><p>需要访问公司文档、课堂平台或位于其他网络环境的资料时，可把订阅导入常用电脑或手机，在套餐允许的设备数内切换。基础版支持 3 台设备同时在线，适合个人主力电脑加一两台移动设备。</p><h3>流媒体与日常浏览</h3><p>基础版包含基础流媒体解锁和普通线路节点池。若经常观看对线路来源更敏感的内容，旗舰版写明全节点原生流媒体解锁，并提供每月 300GB 极速流量。</p><h3>游戏与低延迟需求</h3><p>旗舰版包含 IPLC 专线的游戏加速优化说明，适合在意高峰时段稳定性的用户。它不能保证每一款游戏的延迟数字，实际体感仍与当地宽带、时段和所选线路有关。</p><h3>小团队共用</h3><p>团队版每月 1000GB，支持 20 台设备同时在线，并提供 VIP 高带宽节点、企业定制路由和专属客户经理。共用前应约定谁保管订阅地址，避免把链接发到公开群。</p></section><section id=\"plans\"><h2>套餐与价格</h2><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><p class=\"tag\">常用方案</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></section><section id=\"guide\"><h2>操作说明</h2><ol><li>按设备数量和每月流量选择基础版、旗舰版或团队版，并确认按月或按年支付。</li><li>在账户中复制机场订阅地址。该地址代表使用权，不要公开粘贴。</li><li>安装与你的系统相符的 Clash 兼容客户端后，打开订阅或配置入口，粘贴地址并更新。</li><li>更新成功后选择一条当前套餐可用的节点，再打开系统或客户端中的代理开关。</li><li>用浏览器访问常用网页做一次连通检查。若失败，先更换节点并再次更新订阅，而不是反复安装来源不明的安装包。</li></ol><p>不同客户端的菜单名称会有差异，但顺序都是：取得订阅、导入、更新、选节点、连接。规则分流若需自定义，请只修改自己理解的规则，避免整份覆盖后无法恢复。</p></section><section id=\"download\"><h2>客户端下载</h2><p>本页不托管安装包，也不提供外部下载跳转。请在所用操作系统的正规应用商店，或客户端项目公开发布页，获取与系统版本匹配的 Clash 兼容客户端，再回到账户导入 clash节点订阅。</p><ul><li><a href=\"#download\">Windows 与 macOS</a>：安装桌面客户端后，从订阅菜单更新配置。</li><li><a href=\"#download\">Android 与 iOS</a>：优先使用应用商店中可核验来源的客户端，注意系统允许的代理权限。</li><li><a href=\"#guide\">导入订阅</a>：下载只是第一步，未导入有效订阅时客户端没有 clash节点的线路。</li></ul><p>不要安装来路不明的“破解加速器”或要求额外付款才能解锁的修改版。客户端与订阅是两件事：客户端可以更换，订阅仍按所选套餐生效。</p></section><section id=\"faq\" class=\"faq\"><h2>常见问题</h2><p>连接、流量和设备数是使用前最常确认的三件事。下面的回答按当前套餐说明编写。</p><details><summary>clash节点和 VPN 加速器是什么关系？</summary><p>可以把它理解为带订阅的网络加速服务。VPN 或 Clash 兼容客户端是连接工具，clash节点提供机场订阅中的线路、每月流量和设备上限。只下载客户端而没有有效订阅，无法使用本页列出的节点。</p></details><details><summary>官网下载之后如何完成第一次连接？</summary><p>从可信来源安装客户端，登录或打开你的 clash节点账户，复制订阅地址并在客户端中更新。更新后选择节点再开启连接。建议先用基础网页做连通测试，确认成功后再切换到流媒体或游戏。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>每月大约 100GB、最多 3 台设备，选基础版。需要 300GB、5 台设备、流媒体解锁和游戏向 IPLC 线路，选旗舰版。20 台设备、1000GB 以及定制路由和客户经理，选团队版。年付分别是 150、350 和 850 元，对应十二个月的标价，不增加每月流量。</p></details><details><summary>流量用完或年付中断会怎样？</summary><p>流量按月计算，用完当月极速额度后，高速线路会按账户规则停用或受限，下个周期恢复。年付是预付价格，不是把十二个月流量合并到一个月。若停止续费，周期结束后订阅不再更新出新的可用额度。</p></details><details><summary>已经显示连接成功，但网页仍打不开？</summary><p>先手动更新订阅并换一条同套餐节点，检查设备时间是否准确，以及是否有其他代理或安全软件同时接管网络。仍失败时，旗舰版可提交优先工单，团队版可联系客户经理，请写明系统、客户端版本和完整报错，不要只说“连不上”。</p></details><details><summary>订阅地址泄露了怎么办？</summary><p>订阅地址应视为账户凭证。若发到群聊、截图或公用电脑，可能占用你的设备名额和流量。请在账户中重置订阅，使旧地址失效，再在自己的设备上重新导入。不要把重置后的地址再次公开。</p></details><details><summary>可以自己改路由或分享给很多设备吗？</summary><p>同时在线数量以套餐为准，超出后新的设备可能无法连接。企业定制路由只在团队版中提供，需由客户经理确认需求后安排，不是在客户端里随意填写即可生效。个人方案不包含这项服务。</p></details></section><footer><p>clash节点服务说明：价格、流量与设备数以本页方案为准。客户端请自行从可信来源获取，订阅仅通过账户发放。</p><p><a href=\"#about\">返回简介</a> · <a href=\"#plans\">查看套餐</a> · <a href=\"#faq\">返回常见问题</a></p></footer><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>",
+          "hash": "edc68da0eb0a4b2d569fcde4e42ad26575c04657149561832082c7f1d4cce2f0",
+          "seo": {
+            "title": "clash节点官网：VPN 网络加速与客户端下载",
+            "keywords": "clash节点,clash节点官网,VPN,梯子,网络加速,加速器,机场订阅,客户端下载",
+            "description": "clash节点是面向远程办公、学习与流媒体的网络加速服务。本页说明机场订阅方式、三档套餐、客户端使用步骤，并解答连接、流量与设备相关的常见问题。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qjnfgy.cn",
+    "host": "p-3e2f9e40db.qjnfgy.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "4bcaebf64791e786be5a74dfa73a344d9f86badc93b8d581ab47048d348de01d",
+    "sitemap.xml": "2f03f30f0220b7c7954120e7576f9da2d988add1011c667cb34fe72969c29728",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "07cb983c046f3891c1d130fcfa1b5189059e007a90c0dca89aacd95f2c20a4d4",
+    "robots.txt": "f5dd36f6edd751acd27b53ad7bc5d86cd919f9e6f15ecc59ba37344f6e7fea46",
+    "a5b87ad8043ffca4fb9e3f6f47299e74.txt": "14502984db86b04ee95e5dab728ce4e71bb85b952606416be0ea664e9ad8a7c2"
+  },
+  "revision": "ae16ee050b6749f2b05b2bf1354bf12af9aa4a18ac89b44031d3bbece5bbc88d"
+}
